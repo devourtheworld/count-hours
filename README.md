@@ -56,11 +56,10 @@ You can create a `.bat` file to easily launch the program without using the comm
 2. Add the following lines to the file:
    ```
    @echo off
-   python main.py
-   pause
+   pythonw main.py
    ```
    - The `@echo off` hides the command output.
-   - The `pause` keeps the terminal open after the program finishes.
+   - The `pythonw` suppresses the console window.
 
 3. Save the file as `launch_time_tracker.bat` in the same directory as `main.py`.
 4. Double-click the `.bat` file to launch the program.
