@@ -13,5 +13,10 @@
         "title": "test 3",
         "total_time": 0.023790109157562255,
         "last_launched": "2025-03-23 22:35:56"
+    },
+    "clip studio": {
+        "title": "Clip studio",
+        "total_time": 0.01572425365447998,
+        "last_launched": "2025-03-23 23:07:21"
     }
 }
