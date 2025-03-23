@@ -58,6 +58,11 @@ You can create a `.bat` file to easily launch the program without using the comm
    @echo off
    pythonw main.py
    ```
+   ```
+   @echo off
+   start /b pythonw main.py
+   exit
+   ```
    - The `@echo off` hides the command output.
    - The `pythonw` suppresses the console window.
 
