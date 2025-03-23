@@ -140,7 +140,7 @@ root = tk.Tk()
 root.title("Time Tracker")
 
 # Set the window size to a square format (e.g., 500x500 pixels)
-root.geometry("300x500")
+root.geometry("300x350")
 
 # Disable resizing
 root.resizable(False, False)
@@ -176,11 +176,11 @@ bottom_buttons_frame = tk.Frame(root)
 bottom_buttons_frame.pack(pady=10)
 
 # Open TXT File Button
-open_txt_button = tk.Button(bottom_buttons_frame, text="Open TXT File", command=open_txt_file)
+open_txt_button = tk.Button(bottom_buttons_frame, text="Txt", command=open_txt_file)
 open_txt_button.pack(side="left", padx=5)
 
 # Save to Git Button
-save_to_git_button = tk.Button(bottom_buttons_frame, text="Save to Git", command=save_to_git)
+save_to_git_button = tk.Button(bottom_buttons_frame, text="Save", command=save_to_git)
 save_to_git_button.pack(side="left", padx=5)
 
 # Exit Button
