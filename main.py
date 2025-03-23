@@ -138,6 +138,7 @@ def exit_program():
 # Create the GUI
 root = tk.Tk()
 root.title("Time Tracker")
+root.iconbitmap("icon.ico")  # Set the custom icon
 
 # Set the window size to a square format (e.g., 500x500 pixels)
 root.geometry("300x350")
