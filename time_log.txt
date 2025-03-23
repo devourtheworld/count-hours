@@ -1,5 +1,0 @@
-test: 0 hours 2 minutes
-123: 0 hours 1 minutes
-testttt: 0 hours 0 minutes
-pipu: 0 hours 0 minutes
-fucking fuck: 0 hours 0 minutes
