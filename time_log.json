@@ -1,0 +1,27 @@
+{
+    "test": {
+        "title": "test",
+        "total_time": 2.0380940000216166,
+        "last_launched": "2025-03-23 22:07:42"
+    },
+    "123": {
+        "title": "123",
+        "total_time": 0.5450628638267517,
+        "last_launched": "2025-03-23 22:13:18"
+    },
+    "testttt": {
+        "title": "testttt",
+        "total_time": 0.4359323342641195,
+        "last_launched": "2025-03-23 22:00:56"
+    },
+    "pipu": {
+        "title": "pipu",
+        "total_time": 0.16414966583251953,
+        "last_launched": "2025-03-23 22:03:58"
+    },
+    "fucking fuck": {
+        "title": "fucking fuck",
+        "total_time": 0.024897503852844238,
+        "last_launched": "2025-03-23 22:15:08"
+    }
+}
